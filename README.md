@@ -9,8 +9,10 @@
 ### Part 1: Analyze and Explore the Climate Data
 
 1. Use Pandas Plotting with Matplotlib to print the summary statistics for the precipitation data from 2016-08-13 to 2017-08-23
+![Climate Precipitation](https://github.com/vanillatyy1/10_sqlalchemy-challenge/blob/6eb6e159c13a91a405f0837cdfe12fa801b90b9e/Surfsup/climate_prcp.jpg)
 
-2. Previous 12 months of temperature observation (TOBS) data of the most active station
+3. Previous 12 months of temperature observation (TOBS) data of the most active station
+![Temperature Frequency](https://github.com/vanillatyy1/10_sqlalchemy-challenge/blob/6eb6e159c13a91a405f0837cdfe12fa801b90b9e/Surfsup/tem_freq.jpg)
 
 ### Part 2 - Climate App
 Code: 
